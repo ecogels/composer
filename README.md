@@ -1,3 +1,5 @@
+Workaround hhvm bug https://github.com/facebook/hhvm/issues/2544
+
 Usage
 =====
 ```
