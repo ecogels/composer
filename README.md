@@ -1,3 +1,18 @@
+Usage
+=====
+```
+git clone https://github.com/ecogels/composer
+cd composer
+composer update
+```
+Example bash script:
+```
+#!/bin/bash
+php /path/to/composer/bin/composer "$@"
+```
+ln -s path/script /usr/local/bin/hhvmcomposer
+
+
 Composer - Dependency Management for PHP
 ========================================
 
